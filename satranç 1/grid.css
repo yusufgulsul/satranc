@@ -1,0 +1,372 @@
+body{
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(8,100px);
+    grid-template-rows: repeat(8,100px);
+    place-content: center;
+}
+div{
+   border: thin solid black;
+}
+
+.kutu1{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu2{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu3{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu4{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu5{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu6{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu7{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu8{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu9{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu10{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu11{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu12{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu13{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu14{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu15{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu16{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+
+.kutu17{
+    background-color: rgb(226, 228, 195);
+}
+.kutu18{
+    background-color: rgb(91, 168, 88);
+}
+.kutu19{
+    background-color: rgb(226, 228, 195);
+}
+.kutu20{
+    background-color: rgb(91, 168, 88);
+}
+.kutu21{
+    background-color: rgb(226, 228, 195);
+}
+.kutu22{
+    background-color: rgb(91, 168, 88);
+}
+.kutu23{
+    background-color: rgb(226, 228, 195);
+}
+.kutu24{
+    background-color: rgb(91, 168, 88);
+}
+
+
+.kutu25{
+    background-color: rgb(91, 168, 88);
+}
+.kutu26{
+    background-color: rgb(226, 228, 195);
+}
+.kutu27{
+    background-color: rgb(91, 168, 88);
+}
+.kutu28{
+    background-color: rgb(226, 228, 195);
+}
+.kutu29{
+    background-color: rgb(91, 168, 88);
+}
+.kutu30{
+    background-color: rgb(226, 228, 195);
+}
+.kutu31{
+    background-color: rgb(91, 168, 88);
+}
+.kutu32{
+    background-color: rgb(226, 228, 195);
+}
+.kutu33{
+    background-color: rgb(226, 228, 195);
+}
+.kutu34{
+    background-color: rgb(91, 168, 88);
+}
+.kutu35{
+    background-color: rgb(226, 228, 195);
+}
+.kutu36{
+    background-color: rgb(91, 168, 88);
+}
+.kutu37{
+    background-color: rgb(226, 228, 195);
+}
+.kutu38{
+    background-color: rgb(91, 168, 88);
+}
+.kutu39{
+    background-color: rgb(226, 228, 195);
+}
+.kutu40{
+    background-color: rgb(91, 168, 88);
+}
+.kutu41{
+    background-color: rgb(91, 168, 88);
+}
+.kutu42{
+    background-color: rgb(226, 228, 195);
+}
+.kutu43{
+    background-color: rgb(91, 168, 88);
+}
+.kutu44{
+    background-color: rgb(226, 228, 195);
+}
+.kutu45{
+    background-color: rgb(91, 168, 88);
+}
+.kutu46{
+    background-color: rgb(226, 228, 195);
+}
+.kutu47{
+    background-color: rgb(91, 168, 88);
+}
+.kutu48{
+    background-color: rgb(226, 228, 195);
+}
+
+.kutu49{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu50{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu51{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu52{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+    
+}
+.kutu53{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu54{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu55{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu56{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+
+
+.kutu57{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu58{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu59{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu60{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu61{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+
+}
+.kutu62{
+    background-color: rgb(226, 228, 195);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu63{
+    background-color: rgb(91, 168, 88);
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+.kutu64{
+    background-color: rgb(226, 228, 195);   
+     display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+}
+
